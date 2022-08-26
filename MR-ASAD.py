@@ -8,11 +8,11 @@ red = ('\033[1;31m')
 
 print('<------------------------------------>')
 bit = platform.architecture()[0]
-if bit=='64bit':
+if bit=='Asad':
     print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
     os.system('xdg-open https://facebook.com/groups/351076900316263/')
     import asad
-elif bit=='32bit':
+elif bit=='Kami':
     print(f'{green}[•] Join Over Facebook Group For Any Help{white}')
     os.system('xdg-open https://facebook.com/groups/351076900316263/')
     import kami

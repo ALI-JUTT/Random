@@ -4,9 +4,6 @@
 # FREE 32bit and 64bit
 
 rm -rf Random
-
 git clone https://github.com/ALI-JUTT/Random
-
 cd Random
-
 python MR-ASAD.py
